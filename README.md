@@ -8,6 +8,9 @@ Welcome to the Fairfax Investment Group GitHub account, we are a student-led ini
 - Blank Blank, Blank
 - Blank Blank, Blank
 
+## Learn More
+Visit our website to stay up to date with our trades, watchlist, and growth: https://www.aachen-investment-club.de/
+
 ## 📊 Research Archive
 - [Apple Pitch (PDF)](Apple_Pitch.pdf)
 - [Costco Thesis (PDF)](Costco_Thesis.pdf)
